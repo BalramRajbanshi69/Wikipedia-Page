@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+img {
+    border: 1px solid grey;
+    padding: 5px;
+    float: left;
+    margin-right: 40px;
+}
